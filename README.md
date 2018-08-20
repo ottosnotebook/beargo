@@ -1,7 +1,9 @@
 # BearGo  
 
 Author blog content in Bear. Generate a static site using Hugo.
-
+ 
+![](./assets/beargo.png)
+  
 ## About
 BearGo is a tool that allows you to create [Hugo](https://gohugo.io/) blog content in the [Bear](http://www.bear-writer.com/) notes app. 
 
