@@ -1,0 +1,14 @@
+package: github.com/ottosnotebook/beargo
+import:
+- package: github.com/go-yaml/yaml
+  version: ^2.2.1
+- package: github.com/mattn/go-sqlite3
+  version: v1.9.0
+- package: github.com/spf13/cobra
+- package: github.com/gohugoio/hugo
+  version: f14d773841c32ad48f2d2fa22e1e378d477e5c9e
+  subpackages:
+  - deps
+  - hugofs
+  - hugolib
+- package: github.com/spf13/viper
